@@ -6,7 +6,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('django_celery_beat', '0014_remove_clockedschedule_enabled'),
+        ('django_celery_beat', '0015_remove_clockedschedule_enabled'),
     ]
 
     operations = [

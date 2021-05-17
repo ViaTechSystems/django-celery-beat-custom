@@ -8,7 +8,7 @@ import timezone_field.fields
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('django_celery_beat', '0012_periodictask_expire_seconds'),
+        ('django_celery_beat', '0013_auto_20200324_1324'),
     ]
 
     operations = [
